@@ -138,7 +138,8 @@ Here is the final interactive Power BI dashboard built from the analyzed data:
 ![Dashboard Overview](assets/dashboard1.png)
 
 ### Dashboard View 2
-![Product Performance](assets/dashboard2.png)
+![Product Performance](<img width="1298" height="727" alt="image" src="https://github.com/user-attachments/assets/13537adb-fb7f-4faa-bf2a-6af63317756f" />
+)
 
 The `dashboard_data/` folder contains aggregated, pre-processed CSVs optimized for direct import into **Power BI** or **Tableau**:
 
