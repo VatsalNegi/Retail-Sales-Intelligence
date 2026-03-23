@@ -135,11 +135,10 @@ The [`retail_analysis_queries.sql`](retail_analysis_queries.sql) file contains *
 Here is the final interactive Power BI dashboard built from the analyzed data:
 
 ### Dashboard View 1
-![Dashboard Overview](assets/dashboard1.png)
+![Dashboard Overview](assets/image1.png)
 
 ### Dashboard View 2
-![Product Performance](<img width="1298" height="727" alt="image" src="https://github.com/user-attachments/assets/13537adb-fb7f-4faa-bf2a-6af63317756f" />
-)
+![Product Performance](assets/image2.png)
 
 The `dashboard_data/` folder contains aggregated, pre-processed CSVs optimized for direct import into **Power BI** or **Tableau**:
 
