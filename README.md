@@ -33,7 +33,7 @@ A complete, end-to-end **retail business analytics** project built on the real *
 |------|---------|
 | **Python** (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning, EDA, feature engineering, chart generation |
 | **SQL** | Business KPIs, time-series analysis, profitability queries |
-| **Power BI / Tableau** | Dashboard visualization (data exports in dashboard_data/) |
+| **Power BI ** | Dashboard visualization (data exports in dashboard_data/) |
 | **Jupyter Notebook** | Interactive analysis and presentation |
 
 ---
